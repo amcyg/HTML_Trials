@@ -1,0 +1,42 @@
+#red
+{
+  background: red;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: inline-block;
+}
+
+#blue
+{
+  background: blue;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  top: 0px;
+  left: 350px;
+  display: inline-block;
+}
+
+
+#black1
+{
+  background: black;
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: inline-block;
+}
+
+#black2
+{
+  background: black;
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: inline-block;
+}
