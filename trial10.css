@@ -1,0 +1,23 @@
+#A
+{
+  height: 175px;
+  width: 300px;
+  background-color: #cccccc;
+  position: absolute;
+  margin-left: 320px;
+  padding: 5px;
+}
+
+#B
+{
+  height: 200px;
+  width: 300px;
+  background-color: #cccccc;
+  padding: 5px;
+}
+
+label.formfield
+{
+  width: 120px;
+  display: inline-block;
+}
